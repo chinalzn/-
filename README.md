@@ -1,6 +1,3 @@
-//#include <stdio.h>
-//#include <string.h>
-
 int main()
 {
     int i, j, len1, len2, len3, tmp, flag = 1;
