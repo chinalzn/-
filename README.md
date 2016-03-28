@@ -1,3 +1,4 @@
+第一次尝试在Github上编写代码，准备作为以后写代码的一个记录。
 int main()
 {
     int i, j, len1, len2, len3, tmp, flag = 1;
