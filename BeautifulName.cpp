@@ -16,7 +16,7 @@ int getBeautifulScore(int n, char *str)
         return 0;
     }
 
-    //´´½¨¹þÏ£±í
+    //´´½¨¹þÏ£±í 
     const int TableSize = 256;
     unsigned int hashTable[TableSize];
     for(int i = 0; i < TableSize; i++)
